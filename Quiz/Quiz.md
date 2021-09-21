@@ -1,4 +1,4 @@
-1. Substitution Cipher
+1. Substitution Cipher (是手寫的，寫完就當場交了，所以只有題目)
 2. Transposition Cipher
 3. Columnar Transposition Cipher (with Markov Chain Methods)
 4. LFSR PRNG
